@@ -1,0 +1,12 @@
+body{
+    background-image: url(../../../../iStock-467652436.jpg);
+    background-repeat: no-repeat;
+}
+.man{
+    background-color: black;
+    color: orange;
+    position: relative;
+    left: 250px;
+    top: 250px;
+    background-size: 100 250;
+}
